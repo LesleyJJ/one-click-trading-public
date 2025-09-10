@@ -2,6 +2,8 @@
 
 A Chrome extension that allows traders to quickly place orders from TradingView charts with a single click, streamlining the trading workflow by automatically extracting trading parameters and sending them to a webhook API.
 
+![SMC Indicator Screenshot 1](image_1.png)
+
 ## Features
 
 - **One-Click Order Placement**: Place trades directly from TradingView charts without manual data entry
@@ -172,7 +174,7 @@ The extension requires the following permissions:
 
 ## License
 
-This project is open source. Please ensure compliance with TradingView's terms of service when using this extension.
+Copyright © 2025 LesleyJJ. All rights reserved.
 
 ## Disclaimer
 
